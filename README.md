@@ -7,3 +7,6 @@
 
 [다운로드용 오리지날 압축이미지파일(NVIDIA): 5.2GB](https://developer.nvidia.com/jetson-nano-sd-card-image-r3231)
 
+## (2) NVIDIA DLI
+
+[다운로드용 DLI 압축이미지파일(NVIDIA): 5.2GB](https://developer.download.nvidia.com/training/nano/dlinano_v1-0-0_image_20GB.zip)

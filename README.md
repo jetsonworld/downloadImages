@@ -10,4 +10,4 @@
 ## (2) NVIDIA DLI
 
 [다운로드용 DLI 압축이미지파일(NVIDIA): 7.1GB](https://developer.download.nvidia.com/training/nano/dlinano_v1-0-0_image_20GB.zip)
-(Getting Started With Jetson Nano Developer Kit)
+(https://courses.nvidia.com/courses/course-v1:DLI+C-RX-02+V1/info)

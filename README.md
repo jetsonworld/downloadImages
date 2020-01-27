@@ -2,7 +2,8 @@
 ***
 
 ## (1) 젯슨나노 오리지날 
-![image01](https://drive.google.com/open?id=14egTHCwcH7Z4_FVVPfy-1JVZ_yrsOHO7)
+
+[다운로드용 이미지파일](https://drive.google.com/open?id=14egTHCwcH7Z4_FVVPfy-1JVZ_yrsOHO7)
 
 
 

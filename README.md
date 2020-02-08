@@ -13,3 +13,7 @@
 ```
 DLI Course For Jetson Nano: https://courses.nvidia.com/courses/course-v1:DLI+C-RX-02+V1/info
 ```
+* [다운로드용 DLI 압축이미지파일(NVIDIA): 6.4GB](https://developer.download.nvidia.com/training/nano/dsnano_v1-0-0_20GB_200131A.zip)
+```
+DLI Course For Jetson nano: https://courses.nvidia.com/courses/course-v1:DLI+C-IV-02+V1/info
+```

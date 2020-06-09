@@ -9,9 +9,8 @@
 
 
 ## (2) NVIDIA DLI 코스를 위한 이미지파일
-
-* [다운로드용 DLI코스 압축이미지파일(NVIDIA): 7.1GB](https://developer.download.nvidia.com/training/nano/dlinano_v1-0-0_image_20GB.zip)
-  * Getting Started with AI on Jetson Nano : https://courses.nvidia.com/courses/course-v1:DLI+C-RX-02+V1/info
-
-* [다운로드용 DLI코스 압축이미지파일(NVIDIA): 6.4GB](https://developer.download.nvidia.com/training/nano/dsnano_v1-0-0_20GB_200131A.zip)
-  * Getting Started with DeepStream for Video Analytics on Jetson Nano : https://courses.nvidia.com/courses/course-v1:DLI+C-IV-02+V1/info
+* Getting Started with AI on Jetson Nano : https://courses.nvidia.com/courses/course-v1:DLI+C-RX-02+V1/info
+  * [다운로드용 DLI코스 압축이미지파일(NVIDIA): 7.1GB](https://developer.download.nvidia.com/training/nano/dlinano_v1-0-0_image_20GB.zip)
+  
+* Getting Started with DeepStream for Video Analytics on Jetson Nano : https://courses.nvidia.com/courses/course-v1:DLI+C-IV-02+V1/info
+  * [다운로드용 DLI코스 압축이미지파일(NVIDIA): 6.4GB](https://developer.download.nvidia.com/training/nano/dsnano_v1-0-0_20GB_200131A.zip)
